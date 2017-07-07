@@ -1,0 +1,88 @@
+
+p {
+	text-align: left;
+	padding: 10px;
+}
+header {
+	font-family: helvetica, sans-serif;
+	text-align: center;
+
+}
+footer {
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	background-color: navy;
+	text-align: center;
+}
+article {
+	margin: 50px;
+}
+.head {
+	background-color: lightgrey;
+	height: 35px;
+}
+.blogHead1 {
+	font-size: 1.5em;
+	color: rgb(222, 222, 1);
+	background-color: rgb(108, 108, 108);
+}
+.blogPost1 {
+	background-color: #8D8D8D;
+	font-size: .8em;
+	font-family: "Lucida Console", Monaco, monospace;
+	color: darkblue;
+	line-height: 1.3em;
+	padding: 5px, 10px;
+	border: 2px dotted black;
+	border-radius: 5px;
+	margin: 10px;
+}
+.blogPost2 {
+	background-color: #00943B;
+	font-size: 1em;
+	font-family: Impact, Charcoal, sans-serif;
+	color: red;
+	line-height: .8em;
+	padding: 5px, 5px, 5px, 5px;
+	border: 3px dashed black;
+	border-radius: 5px;
+	margin: 20px;
+}
+.blogPost3 {
+	background-color: #D20595;
+	font-size: 1.2em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color: beige;
+	line-height: 1em;
+	padding: 10px, 20px;
+	border: 1px double black;
+	border-radius: 10px;
+	margin: 10px;
+}
+.blogPost4 {
+	background-color: #8D8D8D;
+	font-size: .6em;
+	font-family: Verdana, Geneva, sans-serif;
+	color: darkMagenta;
+	line-height: 1.3em;
+	padding: 20px, 20px;
+	border: 4px groove black;
+	border-radius: 5px;
+	margin: 7px;
+}
+.blogPost5 {
+	background-color: #524CFE;
+	font-size: 2em;
+	font-family: "Courier New", Courier, monospace;
+	color: darkOrange;
+	line-height: 1.5em;
+	padding: 5px, 2px, 5px, 2px;
+	border: 5px inset black;
+	border-radius: 5px;
+	margin: 15px;
+}
+.blogFooter {
+	color: navy;
+	font-size: .5em;
+	text-align: center;
+}
